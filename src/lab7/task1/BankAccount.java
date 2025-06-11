@@ -1,6 +1,6 @@
 package lab7.task1;
 
-public class BankAccount public class BankAccount {
+public class BankAccount {
 
     private String accountNumber;
     private double balance;
